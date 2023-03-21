@@ -1,3 +1,4 @@
+# Bugs introduced: changed b % 2 to b / 2, changed a, b = b, a+b to a, b = b, a-b  WB
 # declare variables a and b
 a, b = 0, 1
 sum_even = 0
